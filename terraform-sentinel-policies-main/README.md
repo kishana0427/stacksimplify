@@ -1,2 +1,2 @@
-# terraform-sentinel-policies
-Terraform Cloud and Sentinel Policies Demo
+# terraform-sentinel-policies-azure
+Terraform Cloud and Sentinel Policies Demo on Azure
